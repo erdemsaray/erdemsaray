@@ -37,12 +37,18 @@
 
 <h3 align="left">CI/CD & App Automation:</h3>
 <p align="left"> 
+<a href="https://docs.gitlab.com/runner/" target="_blank"> 
+   <img src="https://about.gitlab.com/images/press/press-kit-icon.svg" alt="gitlab-runner" width="40" height="40"/> 
+  </a> 
   <a href="https://fastlane.tools/" target="_blank"> 
    <img src="https://seeklogo.com/images/F/fastlane-logo-6CA0B0B428-seeklogo.com.png" alt="fastlane" width="40" height="40"/> 
   </a> 
   <a href="https://www.docker.com/" target="_blank"> 
    <img src="https://img.icons8.com/color/344/docker.png" alt="docker" width="40" height="40"/> 
   </a> 
+  
+  
+
 </p>
  
 <h3 align="left">Databases and Cloud Hosting</h3>
