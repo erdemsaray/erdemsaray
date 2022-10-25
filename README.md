@@ -51,7 +51,7 @@
 
 </p>
  
-<h3 align="left">Databases and Cloud Hosting</h3>
+<h3 align="left">Databases & Cloud Hosting</h3>
 <p align="left"> 
   <a href="https://firebase.google.com/" target="_blank"> 
    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
@@ -64,7 +64,7 @@
   </a> 
 </p>
  
-<h3 align="left">Software and Tools</h3>
+<h3 align="left">Software & Tools</h3>
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
