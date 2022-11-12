@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning mobile development with **Flutter and Kotlin**
 
-- 👨‍💻 All of my projects are available at [github.com/erdemsaray](github.com/erdemsaray)
+- 👨‍💻 All of my projects are available at **[github.com/erdemsaray](github.com/erdemsaray)**
 
 - 📫 How to reach me **erdemsaray09@gmail.com**
 
