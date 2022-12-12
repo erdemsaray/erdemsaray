@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning mobile development with **Flutter and Kotlin**
 
-- 👨‍💻 All of my projects are available at **[github.com/erdemsaray](github.com/erdemsaray)**
+- 👨‍💻 All of my projects are available at <a href="github.com/erdemsaray"> **github.com/erdemsaray**  </a>
+
+- 🌌 For my Google Play apps -> <a href="https://play.google.com/store/apps/developer?id=Erdem+Saray"> **PlayStore**  </a>
 
 - 📫 How to reach me **erdemsaray09@gmail.com**
 
@@ -16,12 +18,6 @@
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
   <a href="https://dart.dev" target="_blank"> 
    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
@@ -74,8 +70,7 @@
   </a> 
   <a href="https://www.photoshop.com/en" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-   <a href="https://www.autodesk.com.tr/" target="_blank"> 
-   <img src="https://seeklogo.com/images/A/autocad-logo-C9817CB828-seeklogo.com.png" alt="AutoCAD" width="40" height="40"/> 
+  
   </a> 
 </p>
  
