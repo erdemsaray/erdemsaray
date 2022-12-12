@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning mobile development with **Flutter and Kotlin**
 
-- 👨‍💻 All of my projects are available at <a href="github.com/erdemsaray"> **github.com/erdemsaray**  </a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/erdemsaray"> **github/erdemsaray**  </a>
 
 - 🌌 For my Google Play apps -> <a href="https://play.google.com/store/apps/developer?id=Erdem+Saray"> **PlayStore**  </a>
 
