@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/erdemsaray"> **github/erdemsaray**  </a>
 
-- 🌌 For my Google Play apps -> <a href="https://play.google.com/store/apps/developer?id=Erdem+Saray"> **PlayStore**  </a>
+- 🌌 My Google Play apps -> <a href="https://play.google.com/store/apps/developer?id=Erdem+Saray"> **PlayStore**  </a>
 
 - 📫 How to reach me **erdemsaray09@gmail.com**
 
