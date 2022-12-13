@@ -73,5 +73,3 @@
   
   </a> 
 </p>
- 
- ![Snake animation](https://svgshare.com/i/bpC.svg)
