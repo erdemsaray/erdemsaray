@@ -15,12 +15,7 @@
 
 - 📫 Could contact me via **mail@erdemsaray.com.tr**
 
-<hr>
 
-
-
-<h3 align="left">Connect with me on <a href="https://www.linkedin.com/in/erdem-saray/"> LinkedIn</a> </h3> 
-<h3 align="left">Check out my <a href="http://erdemsaray.com.tr/"> Website</a> </h3> 
 <hr>
 
 
