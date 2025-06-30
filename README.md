@@ -17,7 +17,7 @@
    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
   </a> 
   <a href="https://nodejs.org/en" target="_blank"> 
-   <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" alt="c" width="40" height="40"/> 
+   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="c" width="40" height="40"/> 
   </a> 
 </p>
 
